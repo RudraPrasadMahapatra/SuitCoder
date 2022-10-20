@@ -1,0 +1,2 @@
+In this lesson and in this series of lessons, we will introduce you to the concept of data structures. Data structure is the most fundamental and building block concept in computer science and good knowledge of data structures is a must to design and develop efficient software systems.
+Ok, so let's get started
